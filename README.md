@@ -1,0 +1,2 @@
+# masscoind
+masscoind_executable
